@@ -314,5 +314,9 @@
         "name": "Dr. Phil Maffettone",
         "bio": "Computational Scientist @ Brookhaven National Laboratory",
         "blog": "https://github.com/maffettone"
+    },
+    "manbat": {
+        "name": "manbat",
+        "blog": "https://github.com/manbat"
     }
 }
