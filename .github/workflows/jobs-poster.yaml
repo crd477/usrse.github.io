@@ -1,6 +1,4 @@
 name: Post New Jobs
-# meaningless commit
-# another meaningless commit
 
 on:
   push:
@@ -30,22 +28,6 @@ jobs:
 
           deploy: true
           test: true
-
-          # Deploy to Slack channel
-          slack_deploy: true
-          slack_webhook: ${{ secrets.SLACK_WEBHOOK }}
-
-          # Also deploy to Twitter (all secrets required in repository secrets)
-          twitter_deploy: true
-          twitter_api_secret: ${{ secrets.TWITTER_ACCESS_SECRET }}
-          twitter_api_key: ${{ secrets.TWITTER_ACCESS_TOKEN }}
-          twitter_consumer_secret: ${{ secrets.TWITTER_CONSUMER_API_SECRET }}
-          twitter_consumer_key: ${{ secrets.TWITTER_CONSUMER_API_KEY }}
-
-          # Also deploy to Mastodon (all secrets required in repository secrets)
-          mastodon_deploy: true
-          mastodon_access_token: ${{ secrets.MASTODON_ACCESS_TOKEN }}
-          mastodon_api_base_url: ${{ secrets.MASTODON_API_BASE_URL }}
 
           # Also deploy to BlueSky (all secrets required in repository secrets)
           bluesky_deploy: true
