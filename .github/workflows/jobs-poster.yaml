@@ -2,8 +2,6 @@ name: Post New Jobs
 
 on:
   push:
-    paths:
-      - '_data/jobs.yml'
     branches:
       - main
 
