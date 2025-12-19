@@ -27,7 +27,7 @@ jobs:
           unique: "url"
 
           # hashtags to include
-          hashtag: "#RSEng,#ResearchSoftware"
+          hashtag: "#RSE #RSEng #ResearchSoftware #ResearchComputing #ResearchData"
 
           deploy: true
           test: false
