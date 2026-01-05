@@ -1,43 +1,8 @@
 - expires: 2026-03-01
-  location: Nowhere, City, PA
-  name: Python Engineer
-  posted: 2025-12-19
-  url: https://example.org/9
-- expires: 2026-03-01
-  location: Nowhere, City, PA
-  name: Hashtag Engineer
-  posted: 2025-12-19
-  url: https://example.org/newjob6.html
-- expires: 2026-03-01
-  location: Nowhere, City, PA
-  name: New Lead Research Software Engineer
-  posted: 2025-12-17
-  url: https://example.org/newjob5.html
-- expires: 2026-03-01
-  location: Nowhere, City, PA
-  name: Lead Research Software Engineer
-  posted: 2025-12-15
-  url: https://example.org/newjob4.html
-- expires: 2026-03-01
-  location: Nowhere, City, PA
-  name: Lead Research Software Engineer
-  posted: 2025-12-14
-  url: https://example.org/newjob3.html
-- expires: 2026-03-01
-  location: nowhere, City, PA
-  name: Lead Research Software Engineer
-  posted: 2025-12-14
-  url: https://example.org/newjob2.html
-- expires: 2026-03-01
   location: nowhere, Pittsburgh, PA
   name: Lead Research Software Engineer
-  posted: 2025-12-14
-  url: https://example.org/newjob.html
-- expires: 2026-03-01
-  location: nowhere, Pittsburgh, PA
-  name: Lead Research Software Engineer
-  posted: 2025-12-14
-  url: https://sdf.org/~crd/blog/index.html
+  posted: 2026-01-04
+  url: https://example.org/job.html
 - expires: 2026-03-01
   location: Yale Center for Geospatial Solutions, Yale University, New Haven, CT (can
     be remote)

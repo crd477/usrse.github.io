@@ -16,7 +16,7 @@ jobs:
 
       - id: updater
         name: Job Updater
-        uses: crd477/jobs-updater@main
+        uses: crd477/jobs-updater@hashtags
         with:
           filename: "_data/jobs.yml"
 
@@ -27,7 +27,7 @@ jobs:
           unique: "url"
 
           # hashtags to include
-          hashtag: '''#RSE #RSEng #ResearchSoftware #ResearchComputing #ResearchData'''
+          hashtags: "#RSE,#RSEng,#ResearchSoftware,#ResearchComputing,#ResearchData"
 
           deploy: true
           test: false
