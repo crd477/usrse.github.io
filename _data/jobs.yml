@@ -1,5 +1,10 @@
 - expires: 2026-03-01
   location: nowhere, Pittsburgh, PA
+  name: Explicitly empty hashtag list supplied
+  posted: 2026-01-06
+  url: https://example.org/5
+- expires: 2026-03-01
+  location: nowhere, Pittsburgh, PA
   name: A list of hashtags supplied, including the default
   posted: 2026-01-06
   url: https://example.org/4
