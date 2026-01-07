@@ -27,7 +27,7 @@ jobs:
           unique: "url"
 
           # hashtags to include
-          hashtags: "#HPC"
+          hashtag: "#HPC"
 
           deploy: true
           test: false

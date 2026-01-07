@@ -2,7 +2,7 @@
   location: nowhere, Pittsburgh, PA
   name: One non-default hashtag supplied
   posted: 2026-01-06
-  url: https://example.org/2
+  url: https://example.org/3
 - expires: 2026-03-01
   location: nowhere, Pittsburgh, PA
   name: No hashtags specified - default only
