@@ -26,8 +26,6 @@ jobs:
           # Field to determine job uniqueness
           unique: "url"
 
-          # hashtags to include
-          hashtags: "#RSE,#RSEng,#ResearchSoftware,#ResearchComputing,#ResearchData"
 
           deploy: true
           test: false
