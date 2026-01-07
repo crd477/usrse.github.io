@@ -26,6 +26,8 @@ jobs:
           # Field to determine job uniqueness
           unique: "url"
 
+          # hashtags to include
+          hashtags: "#HPC"
 
           deploy: true
           test: false
