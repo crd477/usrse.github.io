@@ -103,9 +103,6 @@ def main():
     a small helper to update the jobs posting files.
     """
     clean_jobs("jobs.yml")
-    clean_jobs("related-jobs.yml")
-    clean_jobs("internships.yml")
-    clean_jobs("freelance.yml")
 
 
 if __name__ == "__main__":

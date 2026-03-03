@@ -17,6 +17,7 @@
 //   name: Software Engineer
 //   posted: 2022-09-12
 //   url: https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Software-Engineer_JR17859
+//   category: rse
 //
 //
 function onFormSubmit(e) {
@@ -46,14 +47,15 @@ function onFormSubmit(e) {
   var posted = posttmp.toISOString().split('T')[0];
 
   mailbody += '\n\n\nPrepared YAML for US-RSE job form submission: ' + rowID + '\n';
-  mailbody += 'Prepend this to the appropriate jobs file, _data/jobs.yml or _data/related-jobs.yml.\n'
+  mailbody += 'Prepend this to the jobs file, _data/jobs.yml, and select an appropriate category for the jobs.\n'
   mailbody += 'NOTE: this is a rough conversion.  Be sure to sanity check before using it verbatim.\n\n';
   mailbody += '\
 - expires: ' + expires + '\n\
   location: ' + location + '\n\
   name: ' + name + '\n\
   posted: ' + posted + '\n\
-  url: ' + url + '\n'
+  url: ' + url + '\n\
+  category: 'CHOOSE ONE CATEGORY FROM: rse, org-member, related, us-rse, internships, freelance'\n
 
   // Send the email
   GmailApp.sendEmail(mailto, mailsubject, mailbody);

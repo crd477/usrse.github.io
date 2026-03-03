@@ -22,6 +22,9 @@ jobs:
         with:
           filename: "_data/jobs.yml"
 
+          # Only post jobs if they are in one of these categories
+          post_categories: "rse,org-member,us-rse"
+
           # Fields to include (all but url will have title before)
           keys: "name,location,url"
 

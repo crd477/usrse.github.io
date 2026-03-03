@@ -3,73 +3,160 @@
   name: Data Science Workflows Architect
   posted: 2026-02-27
   url: https://jobs.lbl.gov/jobs/data-science-workflows-architect-7354
+  category: rse
 - expires: 2026-04-01
   location: Lawrence Berkeley National Lab - Joint Genome Institute (JGI), Berkeley,
     CA
   name: Senior Scientific Data Platform Engineer
   posted: 2026-02-27
   url: https://jobs.lbl.gov/jobs/senior-scientific-data-platform-engineer-joint-genome-institute-7378
+  category: rse
 - expires: 2026-02-23
   location: Renaissance Computing Institute (RENCI), University of North Carolina,
     Chapel Hill, NC
   name: Research Software Developer
   posted: 2026-02-19
   url: https://unc.peopleadmin.com/postings/312951
+  category: rse
 - expires: 2026-04-30
   location: Lynker, College Park, MD (remote possible)
   name: Scientific Applications Programmer
   posted: 2026-02-11
   url: https://careers-lynker.icims.com/jobs/1492/scientific-applications-programmer-for-workflow-development/job
+  category: rse
 - expires: 2026-05-15
   location: Kitware, Inc, Clifton Park, NY
   name: Open Source Software Technology Program Developer
   posted: 2026-02-09
   url: https://jobs.lever.co/kitware/18fda1ff-79bc-4da5-a075-79284592d6dc
+  category: rse
 - expires: 2026-04-30
   location: Internet2, Remote
   name: Senior Software Engineer
   posted: 2026-01-28
   url: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=86f9419e-52c4-4ffd-80f8-cfbda5ad990e&ccId=19000101_000001&jobId=589679&lang=en_US
+  category: rse
 - expires: 2026-02-15
   location: '[C]Worthy, Boulder, CO'
   name: Research Software Engineer
   posted: 2026-01-18
   url: https://jobs.lever.co/convergentresearch/8aa626d1-01fa-4473-a1b6-c160737148b2
+  category: rse
 - expires: 2026-03-31
   location: Princeton University, Princeton, NJ
   name: Lead Research Software Engineer
   posted: 2026-01-06
   url: https://main-princeton.icims.com/jobs/21397/lead-research-software-engineer/job?mode=view
+  category: rse
 - expires: 2026-01-06
   location: Oak Ridge National Laboratory, Oak Ridge, TN
   name: Group Leader, Software Services Development
   posted: 2025-12-17
   url: https://jobs.ornl.gov/job/Oak-Ridge-Group-Leader%2C-Software-Services-Development-TN-37830/1341104700/
+  category: rse
 - expires: 2026-01-31
   location: High-Performance Computing Collaboratory, Mississippi State University,
     Mississippi State, MS
   name: Research Compute Support Specialist
   posted: 2025-12-17
   url: https://explore.msujobs.msstate.edu/en-us/job/509995/research-compute-support-specialist
+  category: rse
 - expires: 2026-03-01
   location: Yale Center for Geospatial Solutions, Yale University, New Haven, CT (can
     be remote)
   name: Lead Research Software Engineer
   posted: 2025-12-10
   url: https://careers.yale.edu/us/en/job/130727WD/Lead-Research-Software-Engineer
+  category: rse
 - expires: 2026-04-30
   location: Aeolus Labs, San Francisco, CA
   name: Research Engineer / Research Scientist
   posted: 2025-12-08
   url: https://expensive-legume-bf0.notion.site/Research-Engineer-Research-Scientist-atmosphere-ocean-model-development-2bfeafcd086b803f92d3f08bc23ae9bf
+  category: rse
 - expires: 2026-02-27
   location: Rosen Center for Advanced Computing, Purdue University, West Lafayette,
     IN
   name: Senior Manager, Research Software Engineering
   posted: 2025-11-13
   url: https://careers.purdue.edu/job/Senior-Manager%2C-Research-Software-Engineering/39229-en_US/
+  category: rse
 - expires: 2026-01-30
   location: Princeton Language and Intelligence Initiative, Princeton, NJ
   name: Lead Research Software Engineer
   posted: 2025-07-30
   url: https://main-princeton.icims.com/jobs/19506/lead-research-software-engineer/job
+  category: rse
+- expires: 2023-10-31
+  location: Remote
+  name: Community Manager
+  posted: 2023-07-18
+  url: /jobs/2023-community-manager/
+  category: us-rse
+- expires: 2023-09-30
+  location: Remote
+  name: Executive Director
+  posted: 2023-07-18
+  url: /jobs/2023-executive-director/
+  category: us-rse
+- expires: 2026-01-20
+  location: NSF National Center for Atmospheric Research, Boulder, CO
+  name: Summer Internships in Parallel Computing (SIParCS 2026)
+  posted: 2025-11-20
+  url: https://www.cisl.ucar.edu/outreach/internships/2026projects
+  category: internships
+- expires: 2026-03-14
+  location: Lawrence Berkeley National Lab, Berkeley, CA
+  name: Data Science Workflows Architect
+  posted: 2026-02-27
+  url: https://jobs.lbl.gov/jobs/data-science-workflows-architect-7354
+  category: org-member
+- expires: 2026-04-01
+  location: Lawrence Berkeley National Lab - Joint Genome Institute (JGI), Berkeley, CA
+  name: Senior Scientific Data Platform Engineer
+  posted: 2026-02-27
+  url: https://jobs.lbl.gov/jobs/senior-scientific-data-platform-engineer-joint-genome-institute-7378
+  category: org-member
+- expires: 2026-03-02
+  location: Rosen Center for Advanced Computing (RCAC), Purdue University, West Lafayette, IN
+  name: Senior Research Software Engineer, MRCC
+  posted: 2026-01-26
+  url: https://careers.purdue.edu/job/Senior-Research-Software-Engineer%2C-MRCC/40451-en_US/
+  category: org-member
+- expires: 2026-02-27
+  location: Rosen Center for Advanced Computing (RCAC), Purdue University, West Lafayette, IN
+  name: Senior Manager, Research Software Engineering
+  posted: 2026-01-15
+  url: https://careers.purdue.edu/job/Senior-Manager%2C-Research-Software-Engineering/39229-en_US/
+  category: org-member
+- expires: 2026-07-01
+  location: Princeton Language and Intelligence Initiative, Princeton University, Princeton, NJ
+  name: Research Software Engineering II
+  posted: 2026-01-22
+  url: https://main-princeton.icims.com/jobs/21467/research-software-engineer-ii/job
+  category: org-member
+- expires: 2026-01-30
+  location: Sandia National Laboratories, Albuquerque, NM
+  name: Senior/Principal Software Engineer
+  posted: 2026-01-20
+  url: https://cg.sandia.gov/psp/applicant/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=696731&PostingSeq=1&SiteId=1
+  category: org-member
+- expires: 2026-02-01
+  location: University of Colorado Anschutz - Department of Biomedical Informatics, Aurora, CO (hybrid schedule)
+  name: Research Analytics Software Engineer
+  posted: 2026-01-18
+  url: https://cu.taleo.net/careersection/2/jobdetail.ftl?job=38720&lang=en
+  category: org-member
+- expires: 2026-04-01
+  location: Johns Hopkins University, Remote
+  name: IT Project Administrator
+  posted: 2026-02-11
+  url: https://hiring.jhu.edu/careers/job/1133911084707
+  category: related
+- expires: 2026-04-30
+  location: High-Performance Computing Collaboratory, Mississippi State University,
+    Mississippi State, MS
+  name: Executive Director, High Performance & Research Computing
+  posted: 2025-12-17
+  url: https://explore.msujobs.msstate.edu/en-us/job/509904/executive-director-high-performance-research-computing
+  category: related
